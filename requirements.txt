@@ -1,0 +1,13 @@
+Flask==1.1.2
+gunicorn==20.0.4
+numpy==1.19.3
+tensorflow==1.15
+matplotlib
+gevent
+requests
+pandas
+bs4
+tf_slim
+pyOpenSSL
+flask_sqlalchemy
+firebase_admin
